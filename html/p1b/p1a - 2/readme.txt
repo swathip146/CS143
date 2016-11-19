@@ -1,0 +1,1 @@
+Since this is an initial level project, both of us choose to work on the project independently so that we will be able to familiarize ourselves with PHP better. Eventually we have checked and tested our code and are submitting the project.
